@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\CompanySystem\CompanySystem\bin\Debug\CompanySystem.exe.config
+C:\Users\pc\source\repos\CompanySystem\CompanySystem\bin\Debug\CompanySystem.exe
+C:\Users\pc\source\repos\CompanySystem\CompanySystem\bin\Debug\CompanySystem.pdb
+C:\Users\pc\source\repos\CompanySystem\CompanySystem\obj\Debug\CompanySystem.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CompanySystem\CompanySystem\obj\Debug\CompanySystem.Forms.MainForm.resources
+C:\Users\pc\source\repos\CompanySystem\CompanySystem\obj\Debug\CompanySystem.Properties.Resources.resources
+C:\Users\pc\source\repos\CompanySystem\CompanySystem\obj\Debug\CompanySystem.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\CompanySystem\CompanySystem\obj\Debug\CompanySystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CompanySystem\CompanySystem\obj\Debug\CompanySystem.exe
+C:\Users\pc\source\repos\CompanySystem\CompanySystem\obj\Debug\CompanySystem.pdb
